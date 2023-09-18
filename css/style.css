@@ -56,6 +56,16 @@ italic {
     color: var(--beauty)
 }
 
+header {
+    padding-top: 10px;
+    padding-right: 5px;
+}
+
+header a {
+    color: var(--beauty);
+    float: right;
+}
+
 .name {
     padding-top: 20px;
 }
